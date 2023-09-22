@@ -1,4 +1,4 @@
 # This program prints Hello, world!
 
 print('Hello, world!')
-Hideing the Last Seen
+print('Hideing, the Last Seen!')
